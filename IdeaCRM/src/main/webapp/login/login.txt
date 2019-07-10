@@ -4,4 +4,6 @@ Drop-3 changes done
 Project release changes
 Production issue fixed after CR01 release
 
+CR01 issue-1 fixed by Others
+
 Modification done for CR01
